@@ -1,0 +1,23 @@
+{
+  "name": "async-landing-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-page -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcosKlender/Async-Landing-Page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcosKlender/Async-Landing-Page/issues"
+  },
+  "homepage": "https://github.com/MarcosKlender/Async-Landing-Page#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
